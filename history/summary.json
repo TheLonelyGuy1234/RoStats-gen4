@@ -22,18 +22,20 @@
     "url": "https://devforum.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/devforum.roblox.com.ico",
     "slug": "roblox-devforum",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 551,
     "timeDay": 551,
     "timeWeek": 551,
     "timeMonth": 551,
     "timeYear": 551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
   },
   {
     "name": "Roblox Devhub",
@@ -113,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/avatar.roblox.com.ico",
     "slug": "avatar-api-endpoint",
     "status": "up",
-    "uptime": "64.01%",
-    "uptimeDay": "64.01%",
-    "uptimeWeek": "64.01%",
-    "uptimeMonth": "64.01%",
-    "uptimeYear": "64.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1933,
     "timeDay": 1933,
     "timeWeek": 1933,
     "timeMonth": 1933,
     "timeYear": 1933,
-    "dailyMinutesDown": {
-      "2023-10-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Auth API Endpoint",
