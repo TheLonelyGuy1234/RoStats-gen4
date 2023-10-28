@@ -22,19 +22,19 @@
     "url": "https://devforum.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/devforum.roblox.com.ico",
     "slug": "roblox-devforum",
-    "status": "down",
-    "uptime": "97.37%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.37%",
-    "time": 881,
-    "timeDay": 1045,
-    "timeWeek": 881,
-    "timeMonth": 881,
-    "timeYear": 881,
+    "status": "up",
+    "uptime": "95.91%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "95.91%",
+    "time": 821,
+    "timeDay": 936,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {
-      "2023-10-28": 49
+      "2023-10-28": 78
     }
   },
   {
